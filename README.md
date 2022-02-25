@@ -88,7 +88,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./https://i.imgur.com/B2rLZEF.png)
+![See my work](./https://i.imgur.com/B2rLZEF.png)
 
 ## My process
 
