@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./https://i.imgur.com/B2rLZEF.png)
+![See screenshot](./https://i.imgur.com/B2rLZEF.png)
 
 ## My process
 
